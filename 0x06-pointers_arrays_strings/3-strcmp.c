@@ -5,8 +5,8 @@
 * @s1: First string to be compared
 * @s2: Second string to be compared
 *
-* Return: less than 0 if s1 is less than s2, 0 is they are equal,
-* more than 0 if s1 is greater than s2
+* Return: An integer less than, equal to, or greater than zero if s1 is found,
+* respectively, to be less than, to match, or be greater than s2
 */
 
 int _strcmp(char *s1, char *s2)

@@ -1,1 +1,1 @@
-Description of what each program is doing
+description of each program:
